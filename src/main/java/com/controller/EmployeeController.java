@@ -24,6 +24,12 @@ public class EmployeeController {
     @Autowired
     private JavaMailSender mailSender;
 
+    // --- Root Health Check ---
+    @GetMapping("/")
+    public String healthCheck() {
+        return "Backend is running!";
+    }
+
     // --- Get all employees ---
     @GetMapping("/getAllEmployees")
     public List<Employee> getAllEmployees() {
