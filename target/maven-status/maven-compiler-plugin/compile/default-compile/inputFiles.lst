@@ -1,8 +1,9 @@
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\config\CorsConfig.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\controller\EmployeeController.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\DatabaseConnectionChecker.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\EmployeeManagementSystemApplication.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\entity\Employee.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\entity\Role.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\repository\EmployeeRepository.java
-C:\Users\kashi\.gemini\antigravity\scratch\EmployeeManagementSystem\src\main\java\com\service\EmployeeService.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\config\CorsConfig.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\controller\EmployeeController.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\controller\HealthController.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\DatabaseConnectionChecker.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\EmployeeManagementSystemApplication.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\entity\Employee.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\entity\Role.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\repository\EmployeeRepository.java
+C:\Users\kashi\.gemini\antigravity\scratch\empmgmt\src\main\java\com\service\EmployeeService.java

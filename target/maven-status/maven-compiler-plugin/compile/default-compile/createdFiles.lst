@@ -1,6 +1,7 @@
 com\repository\EmployeeRepository.class
 com\config\CorsConfig$1.class
 com\config\CorsConfig.class
+com\controller\HealthController.class
 com\entity\Employee.class
 com\service\EmployeeService.class
 com\DatabaseConnectionChecker.class
